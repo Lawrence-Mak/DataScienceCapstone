@@ -15,11 +15,6 @@ SpaceX's cost-efficient Falcon 9 launches, enabled by first stage reuse, pose a 
 - Apply data science and machine learning to predict Falcon 9 first stage landing success and determine launch costs.
 - Gain deeper insights from the data through exploration.
 
-## Business Metric
-
-Classification accuracy, calculated as the ratio of correct predictions to total predictions:
-$$Accuracy = \frac{TP+TN}{TP+FP+TN+FN}$$
-
 ## Deliverables
 
 - Accurate predictive algorithms
